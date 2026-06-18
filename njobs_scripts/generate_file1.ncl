@@ -1,4 +1,4 @@
-; print_filename.ncl
+; generate_1file.ncl
 ; Read date/datesec from a CAM history file and write a new NetCDF containing
 ; a datestamp variable in YYYY-MM-DD-SSSSS format for each time slice.
 ;
